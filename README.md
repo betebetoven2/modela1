@@ -355,6 +355,19 @@ El enriquecimiento contextual revela patrones significativos que pueden reducir 
 
 ---
 
+
+### ANEXOS
+
+## Grfico de Rentabilidad Mensual 2023
+<img src="./rentabilidad_mensual_2023.png" alt="Alt Text" style="width:70%; height:auto;">
+
+## Gráfico de Optimización de Horarios
+<img src="./optimizacion_horarios_enero.png" alt="Alt Text" style="width:70%; height:auto;">
+
+## Gráfico de Análisis Contextual de Energía
+<img src="./analisis_integral_energia_contexto.png" alt="Alt Text" style="width:70%; height:auto;">
+
+---
 ## CONCLUSIONES GENERALES
 
 ### Validación de Resultados
